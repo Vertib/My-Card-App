@@ -19,7 +19,7 @@ struct ContentView: View {
                 Text("Аксенкин Никита")
                     .font(.title2)
                     .fontWeight(.heavy)
-                Text("IOS Developer / Student BMSTU")
+                Text("IOS Developer / BMSTU student '22")
                     .font(.headline)
                     .fontWeight(.light)
                 Card(image: "phone.fill", message: "+79999999999")
